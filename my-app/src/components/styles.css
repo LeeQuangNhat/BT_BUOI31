@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.content{
+    max-width: 65%;
+    margin:0 auto;
+}
+.title{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(225, 84, 13, 0.417);
+    padding: 10px;
+    width: 100%;
+}
+.glass{
+    position: absolute;
+    top: 25%;
+    left: 22.5%;
+    width: 55%;
+    opacity: 0.75;
+}
